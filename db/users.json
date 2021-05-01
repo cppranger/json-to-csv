@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Andrew",
+    "surname":"Pelmenev",
+    "sex":"male",
+    "age":34,
+    "department":"IT",
+    "car":"Lada Kalina"
+  },
+  {
+    "name":"Vasily",
+    "surname":"Varennikov",
+    "sex":"male",
+    "age":41,
+    "department":"Logistics",
+    "car":"Lada Priora Sport"
+  },
+  {
+    "name":"Polina",
+    "surname":"Kartofeleva",
+    "sex":"female",
+    "age":32,
+    "department":"Business Analytics",
+    "car":"Lada Zhiguli"
+  }
+]
